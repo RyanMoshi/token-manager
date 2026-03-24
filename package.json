@@ -1,0 +1,16 @@
+{
+  "name": "token-manager",
+  "version": "1.0.0",
+  "description": "Manage and rotate API tokens",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "token",
+    "manager"
+  ],
+  "author": "RyanMoshi",
+  "license": "MIT"
+}
